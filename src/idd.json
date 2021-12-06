@@ -1,0 +1,132 @@
+[
+    {
+        "Course ID": "ART 130",
+        "Course Name": "2-D Design",
+        "Credit Hours": "3",
+        "Course Description": "The principles, processes, and techniques of design in two dimensional media. Art materials will be purchased by the student. Both computer applications and wet media will be used.\n\n",
+        "Prerequisite": "",
+        "Semester Offered": "Fall, Spring",
+        "Category": "IDD",
+        "Subcategory": "IDD Core"
+    },
+    {
+        "Course ID": "ART 230",
+        "Course Name": "Digital Graphics Fundamentals",
+        "Credit Hours": "3",
+        "Course Description": "An introductory course designed to provide students with the fundamentals necessary to effectively use applications widely available in the field of design. Students will become familiar with each program's interface and capabilities through lectures, demonstrations, and projects.",
+        "Prerequisite": "",
+        "Semester Offered": "Fall",
+        "Category": "IDD",
+        "Subcategory": "IDD Core"
+    },
+    {
+        "Course ID": "ART 235",
+        "Course Name": "Graphic Design I",
+        "Credit Hours": "3",
+        "Course Description": "A course that combines studio work with classroom instruction. Fundamentals of communication through design and basic graphic tools, techniques, and procedures are incorporated with creative problem-solving. This course includes a graphic design history component and a significant writing component.",
+        "Prerequisite": "ART 234, ART 234 ",
+        "Semester Offered": "Spring",
+        "Category": "IDD",
+        "Subcategory": "IDD Core"
+    },
+    {
+        "Course ID": "ART 337",
+        "Course Name": "Graphic Design II",
+        "Credit Hours": "3",
+        "Course Description": "A course that expands on ART 235 Graphic Design I and offers students the opportunity to work on a comprehensive multi-component design project. Students are expected to demonstrate sophisticated design decisions and appropriate design solutions that demonstrate a high level of expertise and achievement as they develop a specific body of work.",
+        "Prerequisite": "ART 235",
+        "Semester Offered": "Fall",
+        "Category": "IDD",
+        "Subcategory": "IDD Core"
+    },
+    {
+        "Course ID": "CIS 171",
+        "Course Name": "Computer Programming I",
+        "Credit Hours": "3",
+        "Course Description": "A study of the design of algorithms, pseudocode, data types, control structures, arrays, program testing, and text file processing using a high-level programming language.  ",
+        "Prerequisite": "MAT 101",
+        "Semester Offered": "Fall",
+        "Category": "IDD",
+        "Subcategory": "IDD Core"
+    },
+    {
+        "Course ID": "CIS 211",
+        "Course Name": "Introduction to Web Design",
+        "Credit Hours": "3",
+        "Course Description": "An interdisciplinary introduction to web design covering both technical and artistic aspects. The course will cover the current tools and technologies used for web design and development. Emphasis will also be given to the artistic principles relevant to good web design. Students will design, develop, and critique websites.",
+        "Prerequisite": "",
+        "Semester Offered": "Spring",
+        "Category": "IDD",
+        "Subcategory": "IDD Core"
+    },
+    {
+        "Course ID": "CIS 311",
+        "Course Name": "Advanced Web Design",
+        "Credit Hours": "3",
+        "Course Description": "A continuation of CIS 211. The course will cover the advanced techniques and technologies used for modern web design. Emphasis will be given to current topics in the field of web design. ",
+        "Prerequisite": "CIS 211",
+        "Semester Offered": "Fall, Even",
+        "Category": "IDD",
+        "Subcategory": "IDD Core"
+    },
+    {
+        "Course ID": "CIS 322",
+        "Course Name": "Human-Computer Interaction",
+        "Credit Hours": "3",
+        "Course Description": "A study of how people interact with computers in a variety of hardware and software environments including desktop, mobile, web, and native applications. This interdisciplinary approach will focus both on the principles of user-centered design and the application of those principles. This course contains a significant writing component.",
+        "Prerequisite": "",
+        "Semester Offered": "Spring, Odd",
+        "Category": "IDD",
+        "Subcategory": "IDD Core"
+    },
+    {
+        "Course ID": "CIS 495",
+        "Course Name": "Capstone Senior Design Project (W)",
+        "Credit Hours": "3",
+        "Course Description": "A capstone course to prepare students for work in the field of interactive digital design. Students will complete portfolios and develop a significant digital project. This course has a significant writing component.",
+        "Prerequisite": "90+ hours",
+        "Semester Offered": "Spring",
+        "Category": "IDD",
+        "Subcategory": "IDD Core"
+    },
+    {
+        "Course ID": "CIS 172",
+        "Course Name": "Computer Programming II",
+        "Credit Hours": "3",
+        "Course Description": "A continuation of CIS 171. Emphasis is on object-oriented constructs and techniques, generics and use of common data structures supported by the language.",
+        "Prerequisite": "CIS 171",
+        "Semester Offered": "Spring",
+        "Category": "IDD",
+        "Subcategory": "IDD Dev"
+    },
+    {
+        "Course ID": "CIS 267",
+        "Course Name": "Application Development I (W)",
+        "Credit Hours": "3",
+        "Course Description": "Windows-based program development using visual languages, editors and programming tools. This course contains a significant writing component.",
+        "Prerequisite": "CIS 211",
+        "Semester Offered": "Fall",
+        "Category": "IDD",
+        "Subcategory": "IDD Dev"
+    },
+    {
+        "Course ID": "CIS 367",
+        "Course Name": "Application Development II",
+        "Credit Hours": "3",
+        "Course Description": "Internet-based program development using web technologies, web development programming tools, and database interfaces.",
+        "Prerequisite": "CIS 267",
+        "Semester Offered": "Spring",
+        "Category": "IDD",
+        "Subcategory": "IDD Dev"
+    },
+    {
+        "Course ID": "CIS 388",
+        "Course Name": "Mobile Application Development",
+        "Credit Hours": "3",
+        "Course Description": "An introduction to mobile application design and development on current platforms. This course will emphasize the implementation of mobile applications using principles from visual and usability design.",
+        "Prerequisite": "CIS 172",
+        "Semester Offered": "Fall, Odd",
+        "Category": "IDD",
+        "Subcategory": "IDD Dev"
+    }
+]
