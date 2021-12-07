@@ -491,7 +491,7 @@ const lacCourses = [
     },
     {
     "Course ID": "BIB/HUM 495",
-    "Course Name": "Values in Human Thought",
+    "Course Name": "Values in Human Thought and Action",
     "Credit Hours": "3",
     "Course Description": "An exploration of value issues and opportunities for further learning in the liberal arts and sciences. This course will focus on Christian perspectives in value questions that the graduate will confront in art, music, literature, economics, science, politics, and other related areas.",
     "Prerequisite": "Senior standing",
@@ -1232,3 +1232,5 @@ const  iddCourses = [
         "Subcategory": "IDD Dev"
     }
 ];
+
+export { lacCourses, csisCourses, cssdCourses, cybCourses, iddCourses }
