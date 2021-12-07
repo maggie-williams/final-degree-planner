@@ -106,7 +106,7 @@
             </div>
           </div>
 
-          <!-- Table of Contents Sidebar -->
+          <!-- Table of Contents Sidebar
           <div class="col-lg-2 position-sticky top-0 h-100 ps-5 toc">
             <nav>
               <p class="text-muted">On this page</p>
@@ -121,7 +121,7 @@
                 <li><a href="#spring2022">Spring 2022</a></li>
               </ul>
             </nav>
-          </div>
+          </div> -->
         </div>
       </div>
     </main>
